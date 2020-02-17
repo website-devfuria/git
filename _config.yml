@@ -3,7 +3,6 @@ highlighter: rouge
 permalink: pretty
 
 dominio: devfuria.com.br
-secao: git
 
 defaults:
   -
