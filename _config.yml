@@ -1,12 +1,8 @@
-enable_disqus: false
 enable_analytics: false
 highlighter: rouge
 permalink: pretty
 
-#_url: http://localhost:4000
-#_url: https://flaviomicheletti.github.io/git
-_url: http://www.devfuria.com.br/git
-
+dominio: devfuria.com.br
 secao: git
 
 defaults:
