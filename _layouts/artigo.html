@@ -14,7 +14,7 @@
           {% comment %}bread-crumb{% endcomment %}
           <ol class="breadcrumb navbar-static-top">
               <li><a href="/">{{ site.dominio }}</a></li>
-              <li><a href="{{ site.baseurl | remove: "/" }}">{{ site.baseurl | remove: "/" }}</a></li>
+              <li><a href="{{ site.baseurl }}">{{ site.baseurl | remove: "/" }}</a></li>
               <li class="active">{{ page.url | remove: "/" }}</a></li>
           </ol>
 
@@ -30,8 +30,6 @@
           <div class="page-header">
             <h1>{{ page.title }} <br /><small>{{ page.description }}</small></h1>
           </div>
-          [{{ site.baseurl }}] <br/>
-          [{{ page.url }}]
           {{ content }}
         </div>
       </div>
