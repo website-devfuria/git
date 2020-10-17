@@ -27,10 +27,9 @@ Lei o artigo [Instalando o Git](/linux/instalando-git/) na seção Linux e descu
 
 O Git é famoso por ter sua curva de aprendizado acentuada.
 
-Pensando nisso, eu preparei um curso muito "mão na massa" e que vai direto ao ponto.
+Pensando nisso, eu preparei um curso rápido que vai direto ao ponto.
 
-Para você entender o Git você precisa trabalhar com ele, o curso é sobre [lógica de programação](/cursos/logica-de-programacao-aliada-a-testes-unitarios-edicao-02-2018/), mas nele você poderá
-trabalhar com o Git em cada exercício.
+É uma playlist no youtube [Curso Online e Tutorial  Git + GitHub](https://www.youtube.com/playlist?list=PL4-j1jp_g6DtsqYy9eSe2Lrt6qSI2Ow8C)
 
 {% include get-capitulo.html page_serie="git-intro" %}
 {% include menus.html %}
