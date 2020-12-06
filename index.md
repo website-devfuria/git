@@ -7,7 +7,6 @@ description:
 Seja bem vindo(a) a seção Git!
 
 
-
 ### O que é Git?
 
 > Git é um sistema distribuído de [controle de versão](http://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%A3o)
