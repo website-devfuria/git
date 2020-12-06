@@ -4,6 +4,9 @@ permalink: pretty
 
 dominio: devfuria.com.br
 
+plugins:
+  - jekyll-redirect-from
+
 defaults:
   -
     scope:

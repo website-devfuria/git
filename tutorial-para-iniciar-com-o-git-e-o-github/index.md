@@ -1,7 +1,9 @@
 ---
 title:       Tutorial para iniciar com  o Git e o GitHub
 description: Aprenda a trabalhar com Git e github, artigo introdutório bastante prático e que promete reduzir a curva de aprendizado da ferramenta.
-capitulo:    git-intro
+capitulo:
+redirect_from:
+  - /tutorial-iniciando-git/
 ---
 
 Esta é uma introdução prática ao Git e GitHub, indicado para quem está dando os primeiros passos com o Git. Neste artigo
@@ -13,11 +15,11 @@ nós veremos como:
 - Conectar o repositório local com o repositório público
 - Sincronizar ambos os repositórios
 
-Antes de tudo, é preciso saber que Git não é GitHub.
+Antes de tudo, é preciso saber que [Git não é GitHub](https://youtu.be/Vgk7xxQKAZo).
 
-[Git]() é um sistema distribuído de controle de versão de código.
+[Git](https://git-scm.com/) é um sistema distribuído de controle de versão de código.
 
-[GitHub]() é o local onde você hospeda o seu Git na web.
+[GitHub](https://github.com/) é o local onde você hospeda o seu Git na web.
 
 ![Git e GitHub são coisas distintas](git-e-github.png "Git e GitHub são coisas distintas")
 
@@ -26,8 +28,6 @@ gratuíto para projetos abertos e pago para projetos privados.
 
 Antes de iniciar com o Git, seria bom se você entendesse o conceito de __versionamento de código__, mas talvez você
 esteja justamente experimentando o Git para poder entender o que é versionamento, então vamos lá...
-
-
 
 
 ### Criando um repositório local
@@ -76,7 +76,6 @@ Veja os comandos:
     git commit -m "my first commit"
 
 
-
 ### Criando um repositório no GitHub
 
 Primeiro, crie um conta no GitHub.
@@ -98,7 +97,6 @@ Apenas anote a URL exibida no campo __HTTP__, vamos precisar dela daqui a pouco.
 Agora, temos um repositório no GitHub e um localmente, então vamos conectá-los.
 
 
-
 ### Conectando o repositório local com o da web
 
 O seu QG (quartel general) é o seu repositório local. A partir dele, você enviará ou receberá informações do repositório
@@ -114,9 +112,8 @@ E no lugar da minha URL você deve utilizar a sua URL, eu avisei que precisaría
 
 Para testar, execute `git remote -v`, sua tela deve ser parecida com a seguinte:
 
-    origin	https://github.com/flaviomicheletti/github-foo.git (fetch)
-    origin	https://github.com/flaviomicheletti/github-foo.git (push)
-
+    origin  https://github.com/flaviomicheletti/github-foo.git (fetch)
+    origin  https://github.com/flaviomicheletti/github-foo.git (push)
 
 
 ### Sincronizando os repositórios
@@ -150,7 +147,7 @@ com a figura abaixo.
 
 ![Imagem ilustrando um repositório no GitHub](repo.png "Imagem ilustrando um repositório no GitHub")
 
-Este [repositório](https://github.com/devfuria/foo) existe de verdade!
+Este [repositório](https://github.com/flaviomicheletti/github-foo) existe de verdade!
 
 Eu criei ele para você poder treinar, bagunçar, testar, brincar, fazer o que você quiser com ele,
 sem a preocupação de acertar.

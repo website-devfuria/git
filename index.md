@@ -6,6 +6,9 @@ description:
 
 Seja bem vindo(a) a seção Git!
 
+Veja no canal devfuria uma [introdução](https://youtu.be/3WBYWHPVyyQ) sobre essa seção de Git:
+
+
 
 ### O que é Git?
 
@@ -14,12 +17,27 @@ Seja bem vindo(a) a seção Git!
 >
 > (Site oficial)
 
+[Curso Git e GitHub - O que é Git ?](https://youtu.be/JqZmZUkWq9I)
+
 
 
 ### Aprenda como instalar o Git
 
-Lei o artigo [Instalando o Git](/linux/instalando-git/) na seção Linux e descubra como instalar o Git no Linux, Windows ou Mac.
+Lei o artigo [Instalando o Git](/instalando-git/) e descubra como instalar o Git no Linux, Windows ou Mac.
 
+[Curso Git e GitHub - O que vamos precisar ?](https://youtu.be/2WqjewT2HRM)
+
+
+
+### Onde eu posso praticar ?
+
+Eu criei um repositório [github-foo](https://github.com/flaviomicheletti/github-foo) para a gente praticar tranquilamente.
+
+Para facilitar a sua vide eu preparei este [tutorial para iniciar](tutorial-para-iniciar-com-o-git-e-o-github).
+
+A ideia é errar o máximo possível, vem bagunçar com agente, não tenha emdo de errar, aqui você não será criticado por isso.
+
+No repositório é possivel deixar a __sua marca__, dá uma olhada lá e deixa um recado bem legal, combinado ?
 
 
 ### Primeiros passo com o Git
@@ -30,8 +48,15 @@ Pensando nisso, eu preparei um curso rápido que vai direto ao ponto.
 
 É uma playlist no youtube [Curso Online e Tutorial  Git + GitHub](https://www.youtube.com/playlist?list=PL4-j1jp_g6DtsqYy9eSe2Lrt6qSI2Ow8C)
 
-{% include get-capitulo.html page_serie="git-intro" %}
-{% include menus.html %}
+<!--
+Nós começamos com um exemplo de [caso de uso](https://youtu.be/eFnbKWBBGp8).
+
+[A importância do Git na sua carreira !](https://youtu.be/OukoT1NJxkw)
+
+[Curso Git e GitHub - Uma palavra sobre "sistemas distribuidos"](https://youtu.be/RdXg4pvhJY8)
+
+[Curso Git e GitHub - Como criar uma conta ?](https://youtu.be/cPakoyF5HDU)
+-->
 
 
 ### Artigos
@@ -39,18 +64,7 @@ Pensando nisso, eu preparei um curso rápido que vai direto ao ponto.
 {% include get-capitulo.html page_serie="git-artigos" %}
 {% include menus.html %}
 
-<!--
-### Artigos de referência
 
-<div class="list-group">
-    <a href="/git/git-clone/" class="list-group-item">clone (em breve)</a>
-    <a href="/git/git-diff/" class="list-group-item">diff (em breve)</a>
-    <a href="/git/git-merge/" class="list-group-item">merge (em breve)</a>
-    <a href="/git/git-reset/" class="list-group-item">reset (em breve)</a>
-    <a href="/git/git-rm/" class="list-group-item">rm (em breve)</a>
-    <a href="/git/git-tags/" class="list-group-item">tags (em breve)</a>
-</div>
--->
 
 ### Veja também
 

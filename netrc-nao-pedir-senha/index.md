@@ -2,7 +2,7 @@
 title:       Configurando o Git com o arquivo .netrc
 description: Aprenda a configurar o Git para não pedir senha com o arquivo netrc
 capitulo:    git-artigos
-ordem:        2
+ordem:       2
 ---
 ---
 

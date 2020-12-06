@@ -1,8 +1,10 @@
 ---
 title:       Resumo dos principais comandos do Git
-description: 
-capitulo:    git-intro
-ordem:        3
+description:
+capitulo:
+redirect_from:
+  - /resumo/
+
 ---
 
 Para inicializar um repositório:

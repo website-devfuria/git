@@ -2,7 +2,7 @@
 title:       Dicas de configuração do Git
 description: Algumas dicas que facilitam a utilização do Git em noss dia a dia
 capitulo:    git-artigos
-orem:        1
+ordem:       1
 ---
 
 
