@@ -23,7 +23,7 @@ Veja no canal devfuria uma [introdução](https://youtu.be/3WBYWHPVyyQ) sobre es
 
 ### Aprenda como instalar o Git
 
-Lei o artigo [Instalando o Git](/instalando-git/) e descubra como instalar o Git no Linux, Windows ou Mac.
+Lei o artigo [Instalando o Git](instalando-git/) e descubra como instalar o Git no Linux, Windows ou Mac.
 
 [Curso Git e GitHub - O que vamos precisar ?](https://youtu.be/2WqjewT2HRM)
 
