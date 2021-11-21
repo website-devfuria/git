@@ -33,9 +33,9 @@ Lei o artigo [Instalando o Git](instalando-git/) e descubra como instalar o Git 
 
 Eu criei um repositório [github-foo](https://github.com/flaviomicheletti/github-foo) para a gente praticar tranquilamente.
 
-Para facilitar a sua vide eu preparei este [tutorial para iniciar](tutorial-para-iniciar-com-o-git-e-o-github).
+Para facilitar a sua vida eu preparei este [tutorial para iniciar](tutorial-para-iniciar-com-o-git-e-o-github).
 
-A ideia é errar o máximo possível, vem bagunçar com agente, não tenha emdo de errar, aqui você não será criticado por isso.
+A ideia é errar o máximo possível, vem bagunçar com agente, não tenha medo de errar, aqui você não será criticado por isso.
 
 No repositório é possivel deixar a __sua marca__, dá uma olhada lá e deixa um recado bem legal, combinado ?
 
